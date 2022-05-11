@@ -25,7 +25,7 @@ class Result {
   String? sId;
   String? title;
   String? cid;
-  int? price;
+  dynamic? price;
   String? oldPrice;
   String? pic;
   String? sPic;
